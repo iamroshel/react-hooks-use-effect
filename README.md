@@ -1,4 +1,4 @@
-# The useEffect Hook
+# The useEffect Hook c
 
 ## Learning Goals
 
